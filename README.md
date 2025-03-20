@@ -1,2 +1,2 @@
-# redirect-to-strava
-Redirect to my strava profile
+# Redirect to Strava
+My Strava profile: https://www.strava.com/athletes/lamngockhuong
